@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: "Next jsAmplify application with basic authentication"
+Description: "Next jsAmplify application with secure cookies"
 
 Parameters:
   GitHubAccessToken:
